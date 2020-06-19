@@ -1,0 +1,7 @@
+Plato por categoria
+
+http://localhost:9001/api/v1/plato/byCategoria?categoria=pizza
+
+Articulo por categoria
+
+http://localhost:9001/api/v1/articulo/byCategoria?categoria=lacteos
